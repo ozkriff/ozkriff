@@ -8,18 +8,17 @@
 - I'm working on a minimalistic turn-based game [Zemeroth].
 - Pronouns: they/he.
 - Links:
-  - Twitter:
-    [@ozkriff](https://twitter.com/ozkriff),
-    [@ozkriff_ru](https://twitter.com/ozkriff_ru),
-    [@rust_gamedev](https://twitter.com/rust_gamedev)
-  - [ozkriff.games](https://ozkriff.games)
-  - [YouTube](https://youtube.com/c/andreylesnikov/videos)
-  - [LinkedIn](https://linkedin.com/in/ozkriff)
-  - [itch.io](https://ozkriff.itch.io)
+  [ozkriff.games](https://ozkriff.games),
+  [Twitter](https://twitter.com/ozkriff) ([ru](https://twitter.com/ozkriff_ru)),
+  [YouTube](https://youtube.com/c/andreylesnikov/videos),
+  [LinkedIn](https://linkedin.com/in/ozkriff),
+  [itch.io](https://ozkriff.itch.io),
+  [Vk](https://vk.com/ozkriff)
 - You can also reach me:
-  - ozkriff on the [Rust GameDev Discord](https://discord.gg/yNtPTb2)
+  - ozkriff on the [Rust GameDev Discord](https://discord.gg/yNtPTb2),
+    [Telegram](https://t.me/ozkriff),
+    and [Gitter](https://gitter.im/ozkriff)
   - ozkriff@gmail.com
-  - [Telegram](https://t.me/ozkriff)
 - Support me on [Patreon](https://patreon.com/ozkriff).
 
 [CLion]: https://www.jetbrains.com/clion/
