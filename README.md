@@ -5,7 +5,7 @@
 - I'm a maintainer of [arewegameyet.rs].
 - I'm running the [@rust_gamedev] Twitter feed.
 - I'm a moderator of the [Russian-speaking Rust community].
-- I'm working on a minimalistic turn-based game [Zemeroth].
+- My current main hobby project is a minimalistic turn-based game [Zemeroth].
 - Pronouns: they/he.
 - Links:
   [ozkriff.games](https://ozkriff.games),
