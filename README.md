@@ -16,8 +16,7 @@
   [Vk](https://vk.com/ozkriff)
 - You can also reach me:
   - ozkriff on the [Rust GameDev Discord](https://discord.gg/yNtPTb2),
-    [Telegram](https://t.me/ozkriff),
-    and [Gitter](https://gitter.im/ozkriff)
+    and [Telegram](https://t.me/ozkriff)
   - ozkriff@gmail.com
 - Support me on [Patreon](https://patreon.com/ozkriff).
 
