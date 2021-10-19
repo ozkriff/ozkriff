@@ -1,6 +1,6 @@
 <!-- markdownlint-disable first-line-heading -->
 
-- I'm working in [CLion] team at [JetBrains].
+- I'm working in the [IntelliJ-Rust] team at [JetBrains].
 - I'm a coordinator/editor of the Rust GameDev WG's [monthly newsletter].
 - I'm a maintainer of [arewegameyet.rs].
 - I'm running the [@rust_gamedev] Twitter feed.
@@ -21,7 +21,7 @@
   - ozkriff@gmail.com
 - Support me on [Patreon](https://patreon.com/ozkriff).
 
-[CLion]: https://www.jetbrains.com/clion/
+[IntelliJ-Rust]: https://github.com/intellij-rust/intellij-rust
 [JetBrains]: https://jetbrains.com
 [Zemeroth]: https://github.com/ozkriff/zemeroth
 [Russian-speaking Rust community]: https://rust-lang.ru
