@@ -13,6 +13,7 @@
   [YouTube](https://youtube.com/c/andreylesnikov/videos),
   [LinkedIn](https://linkedin.com/in/ozkriff),
   [itch.io](https://ozkriff.itch.io),
+  [Telegram](https://t.me/s/ozkriff_games),
   [Vk](https://vk.com/ozkriff)
 - You can also reach me:
   - ozkriff on the [Rust GameDev Discord](https://discord.gg/yNtPTb2),
