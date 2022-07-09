@@ -4,7 +4,7 @@
 - I'm a coordinator/editor of the Rust GameDev WG's [monthly newsletter].
 - I'm a maintainer of [arewegameyet.rs].
 - I'm running the [@rust_gamedev] Twitter feed.
-- I'm a self-retired moderator of the [Russian-speaking Rust community].
+- I'm a [self-retired](https://t.me/s/ozkriff_games/47) moderator of the [Russian-speaking Rust community].
 - My current main hobby project is a minimalistic turn-based game [Zemeroth].
 - Pronouns: they/he.
 - Links:
