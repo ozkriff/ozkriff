@@ -10,6 +10,7 @@
 - Links:
   [ozkriff.games](https://ozkriff.games),
   [Twitter](https://twitter.com/ozkriff) ([ru](https://twitter.com/ozkriff_ru)),
+  [Mastodon](https://mastodon.gamedev.place/@ozkriff),
   [YouTube](https://youtube.com/c/andreylesnikov/videos),
   [LinkedIn](https://linkedin.com/in/ozkriff),
   [itch.io](https://ozkriff.itch.io),
