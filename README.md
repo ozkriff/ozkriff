@@ -1,5 +1,7 @@
 <!-- markdownlint-disable first-line-heading -->
 
+![image](https://user-images.githubusercontent.com/662976/205586676-76c33684-de9a-40e7-8a8f-0a7084ee6888.png)
+
 - I'm working in the [IntelliJ-Rust] team at [JetBrains].
 - I'm a coordinator/editor of the Rust GameDev WG's [monthly newsletter].
 - I'm a maintainer of [arewegameyet.rs].
