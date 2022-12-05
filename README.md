@@ -10,13 +10,13 @@
 - Used to live in St Petersburg, Russia but moved to Yerevan, Armenia in the summer of 2022.
 - Preferred pronouns: they|he.
 - Links:
-  [ozkriff.games](https://ozkriff.games),
-  [Twitter](https://twitter.com/ozkriff) ([ru](https://twitter.com/ozkriff_ru)),
   [Mastodon](https://mastodon.gamedev.place/@ozkriff),
-  [YouTube](https://youtube.com/c/andreylesnikov/videos),
-  [LinkedIn](https://linkedin.com/in/ozkriff),
-  [itch.io](https://ozkriff.itch.io),
+  [Twitter](https://twitter.com/ozkriff) ([ru](https://twitter.com/ozkriff_ru)),
   [Telegram](https://t.me/s/ozkriff_games),
+  [ozkriff.games](https://ozkriff.games),
+  [YouTube](https://youtube.com/c/andreylesnikov/videos),
+  [itch.io](https://ozkriff.itch.io),
+  [LinkedIn](https://linkedin.com/in/ozkriff),
   [Vk](https://vk.com/ozkriff)
 - You can also reach me:
   - ozkriff on the [Rust GameDev Discord](https://discord.gg/yNtPTb2),
