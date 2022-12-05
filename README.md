@@ -6,7 +6,9 @@
 - I'm running the [@rust_gamedev] Twitter feed.
 - I'm a [self-retired](https://t.me/s/ozkriff_games/47) moderator of the [Russian-speaking Rust community].
 - My current main hobby project is a minimalistic turn-based game [Zemeroth].
-- Pronouns: they/he.
+- Born in 1990.
+- Used to live in St Petersburg, Russia but moved to Yerevan, Armenia in the summer of 2022.
+- Preferred pronouns: they|he.
 - Links:
   [ozkriff.games](https://ozkriff.games),
   [Twitter](https://twitter.com/ozkriff) ([ru](https://twitter.com/ozkriff_ru)),
@@ -20,7 +22,7 @@
   - ozkriff on the [Rust GameDev Discord](https://discord.gg/yNtPTb2),
     and [Telegram](https://t.me/ozkriff)
   - ozkriff@gmail.com
-- Support me on [Patreon](https://patreon.com/ozkriff).
+- You can support me on [Patreon](https://patreon.com/ozkriff).
 
 [IntelliJ-Rust]: https://github.com/intellij-rust/intellij-rust
 [JetBrains]: https://jetbrains.com
