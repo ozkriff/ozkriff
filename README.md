@@ -9,7 +9,6 @@
 - I'm a [self-retired](https://t.me/s/ozkriff_games/47) moderator of the [Russian-speaking Rust community].
 - My current main hobby project is a minimalistic turn-based game [Zemeroth].
 - Born in 1990.
-- Used to live in St Petersburg, Russia but moved to Yerevan, Armenia in the summer of 2022.
 - Preferred pronouns: they|he.
 - Links:
   [Mastodon](https://mastodon.gamedev.place/@ozkriff),
