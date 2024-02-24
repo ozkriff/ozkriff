@@ -2,12 +2,14 @@
 
 ![image](https://user-images.githubusercontent.com/662976/205586676-76c33684-de9a-40e7-8a8f-0a7084ee6888.png)
 
-- Born in 1990, preferred pronouns: he or they.
+- Born in 1990, preferred pronouns: he or they,
+  human languages: English and Russian.
 - 10+ years of professional experience in software development,
   including working on [CLion]&[IntelliJ-Rust][ijrust] at [JetBrains]
   and [World of Warships][wow] at [Wargaming].
 - I used to be an active member of the Rust community since ~2014.
-  I hope to get back to all this eventually but [it's on pause for now][pause]:
+  I hope to get back to all this eventually but sadly
+  all my Rust community activities [are on pause for now][pause]:
   - I used to coordinate/edit the Rust GameDev WG's [monthly newsletter].
   - I used to maintain [arewegameyet.rs].
   - I used to run the @rust_gamedev feeds [on Twitter][rust-gamedev-twi]
@@ -41,5 +43,5 @@
 [rust-gamedev-twi]: https://twitter.com/rust_gamedev
 [rust-gamedev-mas]: https://mastodon.gamedev.place/@rust_gamedev
 [arewegameyet.rs]: https://arewegameyet.rs
-[monthly newsletter]: https://rust-gamedev.github.io
+[monthly newsletter]: https://gamedev.rs
 [pause]: https://github.com/rust-gamedev/wg/issues/132
